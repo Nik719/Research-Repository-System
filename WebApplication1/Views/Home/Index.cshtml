@@ -1,0 +1,150 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<WebApplication1.Models.ResearchWork>
+
+<h2>Research Works</h2>
+
+<form method="get" id="search-form">
+    <label for="authorName">Author Name:</label>
+    <input type="text" id="authorName" name="authorName" value="@ViewContext.HttpContext.Request.Query["authorName"]" />
+
+    <label for="title">Paper Title:</label>
+    <input type="text" id="title" name="title" value="@ViewContext.HttpContext.Request.Query["title"]" />
+
+    <label for="startDate">Start Date:</label>
+    <input type="date" id="startDate" name="startDate" value="@ViewContext.HttpContext.Request.Query["startDate"]" />
+
+    <label for="endDate">End Date:</label>
+    <input type="date" id="endDate" name="endDate" value="@ViewContext.HttpContext.Request.Query["endDate"]" />
+
+    <input type="hidden" id="page" name="page" value="@ViewData["CurrentPage"]" />
+    <input type="submit" value="Search" />
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <table class="documents-table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Abstract</th>
+                <th>Publication Date</th>
+                <th>Source</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var work in Model)
+            {
+                <tr>
+                    <td>@work.Title</td>
+                    <td>@work.AuthorName</td>
+                    <td>@work.Abstract</td>
+                    <td>@work.PublicationDate?.ToString("yyyy-MM-dd")</td>
+                    <td><a href="@work.SourceUrl" target="_blank">View Source</a></td>
+                    <td>
+                        <button class="save-button" data-title="@work.Title" data-author="@work.AuthorName" data-abstract="@work.Abstract" data-date="@work.PublicationDate?.ToString("yyyy-MM-dd")" data-source="@work.SourceUrl">Save</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    
+    <form method="post" id="save-form" action="/Home/ExportCsv">
+        <input type="hidden" name="title" value="@ViewContext.HttpContext.Request.Query["title"]" />
+        <input type="hidden" name="authorName" value="@ViewContext.HttpContext.Request.Query["authorName"]" />
+        <button type="submit" class="btn btn-primary">Save as CSV</button>
+    </form>
+
+    <form method="post" id="save-form" action="/Home/SaveToDatabase">
+        <input type="hidden" name="researchWorks" value="@Json.Serialize(Model)" />
+        <button type="submit" class="btn btn-primary">Save to Database</button>
+    </form>
+
+}
+
+else
+{
+    <p>No research works found.</p>
+}
+
+<div class="pagination">
+    <button class="pagination-button" data-page="@((int)ViewData["CurrentPage"] - 1)"
+    @(ViewData["CurrentPage"].ToString() == "1" ? "disabled" : "")>
+        &lt;
+    </button>
+
+    @for (int i = 1; i <= (int)ViewData["TotalPages"]; i++)
+    {
+        <button class="pagination-button @(i == (int)ViewData["CurrentPage"] ? "active" : "")"
+                data-page="@i">
+            @i
+        </button>
+    }
+
+    <button class="pagination-button" data-page="@((int)ViewData["CurrentPage"] + 1)"
+    @(ViewData["CurrentPage"].ToString() == ViewData["TotalPages"].ToString() ? "disabled" : "")>
+        &gt;
+    </button>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const form = document.getElementById("search-form");
+            const pageInput = document.getElementById("page");
+
+            document.querySelectorAll(".pagination-button").forEach(button => {
+                button.addEventListener("click", function (event) {
+                    event.preventDefault();
+                    const page = this.getAttribute("data-page");
+
+                    if (page && !this.hasAttribute("disabled")) {
+                        pageInput.value = page;
+                        form.submit();
+                    }
+                });
+            });
+
+            document.querySelectorAll(".save-button").forEach(button => {
+                button.addEventListener("click", function (event) {
+                    event.preventDefault();
+                    const researchData = {
+                        Title: this.getAttribute("data-title"),
+                        AuthorName: this.getAttribute("data-author"),
+                        Abstract: this.getAttribute("data-abstract"),
+                        PublicationDate: this.getAttribute("data-date"),
+                        SourceUrl: this.getAttribute("data-source")
+                    };
+
+                    fetch("/Home/SaveToDatabase", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json"
+                        },
+                        body: JSON.stringify(researchData)
+                    }).then(response => {
+                        if (response.ok) {
+                            alert("Research work saved successfully!");
+                        } else {
+                            alert("Failed to save research work.");
+                        }
+                    }).catch(error => {
+                        console.error("Error:", error);
+                        alert("An error occurred while saving the research work.");
+                    });
+                });
+            });
+        });
+    </script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const researchWorksData = @Html.Raw(Json.Serialize(Model));  
+            document.getElementById("researchWorks").value = JSON.stringify(researchWorksData);  
+        });
+    </script>
+}

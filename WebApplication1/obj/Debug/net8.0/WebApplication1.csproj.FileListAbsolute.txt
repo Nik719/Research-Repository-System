@@ -1,0 +1,333 @@
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\Projects\Research Repository\WebApplication1\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\Research Repository\WebApplication1\WebApplication1\bin\Debug\net8.0\RestSharp.dll
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\bin\Debug\net8.0\RestSharp.dll
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\nik\Desktop\projecsa\backend\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\RestSharp.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Download\Opera & Chrome\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\RestSharp.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\Study Material\College\Project\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Downloads\projecsa-main (1) (1)\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\RestSharp.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebAppli.7D14BD69.Up2Date
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\nik\Desktop\projecsa-main (1)\projecsa-main\backend\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
