@@ -40,6 +40,7 @@ namespace WebApplication1.Service
                         Method = Method.Get
                     };
 
+
                     request.AddParameter("engine", "google_scholar");
                     request.AddParameter("q", query);
                     request.AddParameter("api_key", _apiKey);
